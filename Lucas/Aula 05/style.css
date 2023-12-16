@@ -15,7 +15,6 @@
 .menu {
     width: 80%;
     margin: 0px auto;
-
     display: flex;
     flex-direction: row;
     justify-content: space-between;
